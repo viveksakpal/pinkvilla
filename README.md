@@ -1,5 +1,7 @@
 # pinkvilla
 
+Infinity Scroll(Pagination) Photo Gallery using bloc state management.
+
 A new Flutter project.
 
 ## Getting Started
